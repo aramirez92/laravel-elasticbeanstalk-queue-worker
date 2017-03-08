@@ -1,10 +1,14 @@
 {
-    "name": "foxxmd/laravel-elasticbeanstalk-queue-worker",
+    "name": "aramirez92/laravel-elasticbeanstalk-queue-worker",
     "description": "Deploy your Laravel application as a queue worker on AWS ElasticBeanstalk",
     "keywords": ["laravel","aws","elasticbeanstalk","worker","queue","beanstalkd","supervisor"],
     "type": "library",
     "license": "MIT",
     "authors": [
+        {
+            "name": "devOps92",
+            "email": "devops92@gmail.com"
+        },
         {
             "name": "FoxxMD",
             "email": "FoxxMD@users.noreply.github.com"
